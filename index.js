@@ -52,6 +52,8 @@ Aşağıdakileri yaparak carpma isimli fonksiyonu tamamla:
    3. console.log(carpma(7,4)) ile yazdığın fonsiyonu test edin. Console'da sonucu 28 olarak görmelisin.
 */
 
+// bu fonksiyon iki sayıyı çarpar.
+
 function carpma(sayi1, sayi2) {
   return sayi1*sayi2;
 }
